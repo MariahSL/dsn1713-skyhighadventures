@@ -1,0 +1,18 @@
+.navbar {
+   background-color: #79D0EC;
+   color: white;
+}
+
+.logo {
+   width: 80px;
+}
+
+.nav-link {
+   text-transform: uppercase;
+   font-weight: bold;
+   color: white;
+ }
+
+ .navbar {
+   padding: 20px 0;
+ }
